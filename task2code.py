@@ -1,7 +1,7 @@
 # Task 2 - Exploratory Data Analysis (ML Internship)
 # Requirements:
 # pip install pandas numpy matplotlib seaborn plotly scikit-learn
-#ignore this if they are already present.
+#ignore this if they are already present
 
 import pandas as pd
 import numpy as np
@@ -43,4 +43,5 @@ fig = px.scatter(df, x="Age", y="Fare", color="Survived",
 fig.show()
 
 print("EDA complete. Check visualizations above.")
+
 
