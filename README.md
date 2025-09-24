@@ -26,8 +26,6 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 - **Pclass**: Strong negative correlation with Fare; passengers in 1st class paid more and had better survival rates.  
 - **Survival**: Higher survival rate among females and first-class passengers.  
 
----
-
 ## Tools & Libraries
 - **Python**
 - **Pandas, NumPy** → Data handling and statistics  
@@ -47,6 +45,3 @@ python task2code.py
 ```
 6. Several plots and visualizations will be displayed (histograms, boxplots, heatmap, pairplot, scatterplot).
 👉 Close any pop-up plot windows to allow the script to continue execution.
-
-
-
